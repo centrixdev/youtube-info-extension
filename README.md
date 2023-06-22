@@ -6,4 +6,4 @@ Shows Information about the YouTube channel and about the video that is currentl
 
 ## Resources:
 
-- [Boilderplate](https://github.com/lxieyang/chrome-extension-boilerplate-react)
+- [Boilerplate](https://github.com/lxieyang/chrome-extension-boilerplate-react)
